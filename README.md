@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## 3. Evaluation
 
-Measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC).
+> Measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC).
 
 ## 4. Features
 
@@ -27,3 +27,9 @@ Unfortunately, due to confidentiality issues, we cannot provide the original fea
 * Amount is the transaction Amount, this feature can be used for example-dependant cost-sensitive learning
 * Class is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
+
+### Accuracy is 99.8%
+
+### Here's the Precision-Recall Curve (AUPRC)
+
+<img src="sgd_clf.png">
